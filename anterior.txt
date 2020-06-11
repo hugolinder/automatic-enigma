@@ -8,4 +8,5 @@ branch done list and creation
 log done
 init done
 config done user name and email
+merge done
 
