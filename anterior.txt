@@ -1,5 +1,6 @@
 This is a small tutorial, where I try out git. 
 I was inspired by https://www.youtube.com/watch?v=USjZcfj8yxE
+To do
 I will look at the commands 
 add done single, poem anterior, .
 status done
@@ -9,4 +10,6 @@ log done
 init done
 config done user name and email
 merge done 
+
+If you get stuck in log, press 'q' and 'ENTER'
 
