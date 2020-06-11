@@ -4,4 +4,6 @@ I will look at the commands
 add
 status
 checkout
-bramch
+branch
+log
+
