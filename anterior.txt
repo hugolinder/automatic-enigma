@@ -11,5 +11,9 @@ init done
 config done user name and email
 merge done 
 
-If you get stuck in log, press 'q' and 'ENTER'
+If you get stuck in log, press 'q' for 'quit' and 'ENTER'
+
+Commits 
+git commit -m "message" works for quick fixes. Simply typing 'git commit' allows one to write more clear description. One done in git commit, "Press Esc and then type :wq to save and exit." (Stephen Amaza)
+
 
