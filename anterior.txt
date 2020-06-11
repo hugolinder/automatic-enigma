@@ -10,6 +10,8 @@ log done
 init done
 config done user name and email
 merge done 
+remote done -v for list of remotes, origin github link for online push / fetch
+
 
 If you get stuck in log, press 'q' for 'quit' and 'ENTER'
 
